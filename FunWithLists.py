@@ -9,7 +9,7 @@ for i in range(0, 3):
                 Result = "Yes!"
                 print (f'Yes!')
                 MyResultsList =  [i,ii,ii,Result]                
-                WhiteList.append(MyResultsList)
+                WhiteList.append(MyResultsList)                
 
 print(WhiteList)
 
